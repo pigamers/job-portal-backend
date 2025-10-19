@@ -77,11 +77,11 @@ backend/
 3. **Environment Setup**
    Create a `.env` file in the root directory:
    ```env
-   DATABASE_HOST=localhost
+   DATABASE_HOST=
    DATABASE_PORT=5432
    DATABASE_USERNAME=postgres
-   DATABASE_PASSWORD=12345
-   DATABASE_NAME=job_management
+   DATABASE_PASSWORD=your password
+   DATABASE_NAME=you can keep any name
    PORT=3001
    ```
 
